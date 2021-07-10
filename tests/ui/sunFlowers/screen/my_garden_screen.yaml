@@ -1,0 +1,47 @@
+title_sunflower:
+  android: 
+    selector: text
+    value: Sunflower
+  ios:
+    selector: 
+    value: 
+
+btn_my_garden:
+  android: 
+    selector: xpath=
+    value: //android.widget.LinearLayout[@content-desc="My garden"]
+  ios:
+    selector: 
+    value: 
+
+btn_plant_list:
+  android: 
+    selector: xpath=
+    value: //android.widget.LinearLayout[@content-desc="Plant list"]
+  ios:
+    selector: 
+    value: 
+
+txt_empty:
+  android: 
+    selector: id=
+    value: empty_garden
+  ios:
+    selector: 
+    value: 
+
+btn_add:
+  android: 
+    selector: id=
+    value: add_plant
+  ios:
+    selector: 
+    value: 
+
+txt_plant_name:
+  android: 
+    selector: id=
+    value: plant_name
+  ios:
+    selector: 
+    value:

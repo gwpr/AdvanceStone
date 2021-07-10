@@ -1,0 +1,47 @@
+txt_name_plant:
+  android: 
+    selector: id=
+    value: plant_detail_name
+  ios:
+    selector: 
+    value: 
+
+btn_add:
+  android: 
+    selector: id=
+    value: fab
+  ios:
+    selector: 
+    value: 
+
+btn_galery:
+  android: 
+    selector: id=
+    value: gallery_nav
+  ios:
+    selector: 
+    value: 
+
+btn_share:
+  android: 
+    selector: id=
+    value: action_share
+  ios:
+    selector: 
+    value: 
+
+txt_share_android:
+  android: 
+    selector: id=
+    value: title
+  ios:
+    selector: 
+    value: 
+
+txt_snackbar:
+  android: 
+    selector: id=
+    value: snackbar_text
+  ios:
+    selector: 
+    value: 

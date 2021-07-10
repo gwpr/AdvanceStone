@@ -1,0 +1,8 @@
+
+title_galery:
+  android: 
+    selector: xpath=
+    value: //*[contains(@text,'Photos by Unsplash')]
+  ios:
+    selector: 
+    value: 
