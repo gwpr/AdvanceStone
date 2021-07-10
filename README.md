@@ -3,9 +3,13 @@ Desafio - Nível Avançado
 
 ## Pré Requisitos
 **Python3**
+
 **Pip3** (Gerênciador de pacotes)
+
 **Máquina Configurada com APPIUM**
+
 **Máquina Configurada com as variáveis de ambiente do Android**
+
 **Emulador Android** OU **Device Físico conectado ao PC/MAC**
 
 ## Clone o Projeto
