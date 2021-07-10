@@ -1,0 +1,11 @@
+robotframework==3.1.2
+robotframework-requests==0.6.2
+robotframework-httplibrary
+robotframework-jsonlibrary
+robotframework-appiumlibrary
+robotframework-debuglibrary
+jsonschema
+pexpect
+requests
+bson
+PyYAML==5.1.2

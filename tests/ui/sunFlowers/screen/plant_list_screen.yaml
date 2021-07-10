@@ -1,0 +1,31 @@
+title_sunflower:
+  android: 
+    selector: text
+    value: Sunflower
+  ios:
+    selector: 
+    value: 
+
+btn_my_garden:
+  android: 
+    selector: id=
+    value: My garden
+  ios:
+    selector: 
+    value: 
+
+btn_plant_list:
+  android: 
+    selector: id=
+    value: Plant list
+  ios:
+    selector: 
+    value: 
+
+plant_apple:
+  android: 
+    selector: xpath=
+    value: //android.widget.TextView[contains(@text,'Apple')]
+  ios:
+    selector: 
+    value: 
