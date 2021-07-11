@@ -1,6 +1,10 @@
 ### VisualStudioCode ###
 .DS_Store
+log_ui
+log_api
 logs
+__pycache__
+__pycache__/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
