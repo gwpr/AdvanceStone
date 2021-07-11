@@ -1,0 +1,12 @@
+{
+        "body":{
+        "amount":1,
+        "account_id": "bccd3bf7-3369-4622-b769-71f93d66da87",
+        "target":{
+            "account":{
+                "account_code":"475384"
+            }
+        },
+        "description":"Simulando uma Transação"
+        }
+}

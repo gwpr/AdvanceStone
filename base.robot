@@ -8,7 +8,7 @@ Library     DebugLibrary
 Library     JSONLibrary
 Library     ${CURDIR}/lib/HelpersScreenObject.py
 
-Resource    ${CURDIR}/tests/ui/bdd.robot
+Resource    ${CURDIR}/tests/bdd.robot
 
 ***Keywords****
 Abrir Aplicacao
