@@ -1,6 +1,6 @@
 ### VisualStudioCode ###
 .DS_Store
-log_ui
+logs_ui
 log_api
 logs
 __pycache__

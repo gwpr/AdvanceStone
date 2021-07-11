@@ -1,6 +1,15 @@
 # AdvanceStone
 Desafio - Nível Avançado
 
+## Desafio 1
+Conforme Conforme solicitado testes em BDD: BDD Modelo de Teste.pdf
+O mesmo encontra-se na Raiz do Projeto
+
+Também foi inserido uma Planilha com o plano de Teste para regressivo: Planilha Modelo de Testes.pdf
+
+
+## Desafio 2 e 3 - Automação Mobile / Automação API
+
 ## Pré Requisitos
 **Python3**
 
